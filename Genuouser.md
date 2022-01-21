@@ -127,7 +127,7 @@ const layerConfigurations = [
           bypassDNA: false;
         }
       }},
-      { name: "Eyeball" },
+      { name: "*Eyeball" },
       {
         name: "Eye color",
         options: {
